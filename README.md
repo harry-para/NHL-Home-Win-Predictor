@@ -3,7 +3,7 @@
 This project used NHL (National Hockey League) regular season data that was sourced Hockey Reference (https://www.hockey-reference.com/leagues/).
 Regular season data was scraped from 2014-2015 regular season to the 2019-2020 regular season.
 
-The purpose of this project was to use the data to predict if a home team can win their game based on specified factor.
+The purpose of this project was to use the data to predict if a home team can win their game based on specified factors.
 
 This analysis used feature enginneering to produce more insights based on the data such as home and vistor team win streak, if the home team or visitor team won their last game and if the home team won against a specific team the last team they played.
 Team names were also encoded to ensure they could be used as variables for prediction.
