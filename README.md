@@ -22,7 +22,7 @@ The F1 score, which conveys the balance between the precision and the recall, wa
 The best performing algorithm was then used to predict to conduct out-of-sample forecasting on other NHL regular seasons.
 
 This analysis used Google Sheets to store the NHL regular season data and pandas dataframes online that were later used to produce data visualizations on Tableau.
-The Tableau workbook gives a more visual representation by comparing the chosen classification algorithm's performance to the actual results of the games.
+The Tableau workbook uses the Python programming language via TabPy to give a more visual representation by comparing the chosen classification algorithm's performance to the actual results of the games. TabPy is an API that enables evaluation of Python code from within a Tableau workbook. 
 The link to the Tableau workbook is: 
 
-The python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "NHL Win Prediction.ipynb".
+The Python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "NHL Win Prediction.ipynb".
