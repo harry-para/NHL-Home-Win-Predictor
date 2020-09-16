@@ -14,4 +14,4 @@ This analysis used Google Sheets to store the NHL regular season data and pandas
 The Tableau workbook gives a more visual representation by comparing the chosen classification algorithm's performance to the actual results of the games.
 The link to the Tableau workbook is: 
 
-The python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "TO_Crime_Analysis.ipynb".
+The python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "NHL Win Prediction.ipynb".
