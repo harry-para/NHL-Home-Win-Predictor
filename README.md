@@ -23,6 +23,7 @@ The best performing algorithm was then used to predict to conduct out-of-sample 
 
 This analysis used Google Sheets to store the NHL regular season data and pandas dataframes online that were later used to produce data visualizations on Tableau.
 The Tableau workbook uses the Python programming language via TabPy to give a more visual representation by comparing the chosen classification algorithm's performance to the actual results of the games. TabPy is an API that enables evaluation of Python code from within a Tableau workbook. 
-The link to the Tableau workbook is: 
+The link to the Tableau workbook is: https://drive.google.com/drive/folders/1LioDRmmS_W3t-h3vq8htEDLQU9cFllFb
+Note: This file must be downloaded and opened with Tableau Desktop and a TabPy connection to view.
 
 The Python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "NHL Win Prediction.ipynb".
