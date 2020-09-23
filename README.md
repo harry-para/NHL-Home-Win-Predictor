@@ -31,3 +31,6 @@ The name of the file is "NHL Home Win Prediction.twbx".
 Note: This file must be downloaded and opened with Tableau Desktop and a TabPy connection to view.
 
 The Python script and output using Jupyter Notebooks via the Visual Studio Code editor is attached above as "NHL Win Prediction.ipynb".
+
+Python libraries used include: oauth2client, df2gspread, numpy, pandas, scikit-learn, matplotlib and seaborn
+Python APIs used include: gspread and TabPy
